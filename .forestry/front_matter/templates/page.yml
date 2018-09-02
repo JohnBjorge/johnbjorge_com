@@ -1,0 +1,17 @@
+---
+label: page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: permalink
+  name: permalink
+  config:
+    required: false
+- type: text
+  name: layout
+  label: layout
+  default: page
+- type: text
+  name: title
+  label: title
