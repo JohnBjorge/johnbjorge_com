@@ -24,4 +24,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/twitch-preview.md
 - _posts/test-post.md
